@@ -1,8 +1,23 @@
-- 👋 Hi, I’m @supercoder101
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+
+I deliver high quality enterprise level fully customized web designing and development services using latest open source technology based on the client’s needs.
+I follow both the traditional ‘waterfall’ as well as an ‘agile software development’ lifecycle.
+I'm a Web developer and I have much experiences with Frontend Development & MERN Stack development.
+My Strong Experiences as follow:
+    - Javascript(8+ years)
+    - ReactJS/Redux (4+ years)
+    - Node/Express(5+ years)
+    - ReactNative(3+ years)
+    - PHP (5+ years)
+    - HTML/Sass/Css (6 + years)
+    - PostgreSql/Mongo/MySQL Database (5+ years)
+    - Css Framework like BootStrap, Material UI, Sematic UI etc… (5+ years)
+    - Backend Rest API (5+ years)
+    - AWS Web Service (5+ years)
+    - AWS Elastic Beanstalk/EC2 (5+ years)
+    - Docker (5+ years)
+    - Git & Gitlab & Jira & Trello (7+ years)
+    - Social Authentication (5+ years)
 
 
 <!---
