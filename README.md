@@ -1,6 +1,5 @@
 ![Full-Stack-Web-Developer](https://user-images.githubusercontent.com/90085851/132164943-2d427540-1e4a-4fb6-b270-4bf368dee64d.png)
 
-
 I deliver high quality enterprise level fully customized web designing and development services using latest open source technology based on the client’s needs.<br>
 I follow both the traditional ‘waterfall’ as well as an ‘agile software development’ lifecycle.<br>
 I'm a Web developer and I have much experiences with Frontend Development & MERN Stack development.<br>
