@@ -1,9 +1,9 @@
 
 
-I deliver high quality enterprise level fully customized web designing and development services using latest open source technology based on the client’s needs.
-I follow both the traditional ‘waterfall’ as well as an ‘agile software development’ lifecycle.
-I'm a Web developer and I have much experiences with Frontend Development & MERN Stack development.
-My Strong Experiences as follow:
+I deliver high quality enterprise level fully customized web designing and development services using latest open source technology based on the client’s needs.<br>
+I follow both the traditional ‘waterfall’ as well as an ‘agile software development’ lifecycle.<br>
+I'm a Web developer and I have much experiences with Frontend Development & MERN Stack development.<br>
+My Strong Experiences as follow:<br>
     - Javascript(8+ years)
     - ReactJS/Redux (4+ years)
     - Node/Express(5+ years)
